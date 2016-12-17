@@ -1,2 +1,0 @@
-# StageX
-Project TechnoWEB
